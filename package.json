@@ -8,8 +8,12 @@
   },
   "devDependencies": {
     "@nuxt/kit": "3.8.2",
+    "@nx/nuxt": "17.3.0-canary.20240123-3333ef4",
+    "@nx/vite": "17.3.0-canary.20240123-3333ef4",
     "@types/node": "^20.10.4",
     "globby": "^14.0.0",
+    "nuxi": "^3.8.1",
+    "nx": "17.3.0-canary.20240123-3333ef4",
     "pathe": "^1.1.1",
     "pkg-types": "^1.0.3",
     "turbo": "^1.11.2"

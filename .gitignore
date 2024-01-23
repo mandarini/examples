@@ -68,3 +68,6 @@ Temporary Items
 **/test-results/
 **/playwright-report/
 **/playwright/.cache/
+
+
+.nx/cache

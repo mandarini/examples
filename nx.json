@@ -1,0 +1,20 @@
+{
+  "affected": {
+    "defaultBase": "main"
+  },
+  "plugins": [
+    {
+      "plugin": "@nx/nuxt/plugin",
+      "options": {
+        "buildTargetName": "build",
+        "serveTargetName": "serve"
+      }
+    },
+    {
+      "plugin": "@nx/vite/plugin",
+      "options": {
+        "testTargetName": "test"
+      }
+    }
+  ]
+}
